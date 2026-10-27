@@ -1,0 +1,26 @@
+OrderID,OrderDate,Product,Quantity,UnitPrice,City,PriceCategory,Revenue
+9001,2026-05-01,Laptop,2.0,650.0,Chennai,High,1300.0
+9002,2026-05-02,Mouse,5.0,18.5,Chennai,Low,92.5
+9003,2026-05-03,Monitor,3.0,180.0,Hyderabad,Medium,540.0
+9004,,Keyboard,2.0,32.0,Bengaluru,Low,64.0
+9005,2026-05-05,Headphones,2.0,45.0,Pune,Low,90.0
+9006,2026-05-06,Webcam,1.0,99.995,Mumbai,Low,99.995
+9007,2026-05-07,External Ssd,2.0,89.99,Unknown,Low,179.98
+9008,2026-05-08,Printer,1.0,155.0,Delhi,Medium,155.0
+9009,2026-05-09,Router,3.0,79.0,Kolkata,Low,237.0
+9010,2026-05-10,Gaming Laptop,1.0,1450.0,Chennai,High,1450.0
+9011,2026-05-11,Laptop,1.0,650.0,Chennai,High,650.0
+9012,2026-05-12,Usb Cable,10.0,7.99,Jaipur,Low,79.9
+9013,2026-05-13,Tablet,2.0,320.0,Lucknow,Medium,640.0
+9014,2026-05-14,Smartphone,1.0,499.0,Pune,Medium,499.0
+9015,2026-05-15,Speaker,4.0,38.0,Ahmedabad,Low,152.0
+9016,2026-05-16,Power Bank,3.0,25.0,Coimbatore,Low,75.0
+9017,2026-05-17,Graphics Card,1.0,899.0,Visakhapatnam,High,899.0
+9018,2026-05-18,Microphone,2.0,75.0,Vijayawada,Low,150.0
+9019,2026-05-19,Smartwatch,2.0,120.0,Tirupati,Medium,240.0
+9020,2026-05-20,Hard Drive,1.0,69.0,Mysuru,Low,69.0
+9021,2026-05-21,Projector,1.0,410.0,Madurai,Medium,410.0
+9022,2026-05-22,Docking Station,2.0,110.0,Trichy,Medium,220.0
+9023,2026-05-23,Laptop Stand,3.0,29.0,Salem,Low,87.0
+9024,2026-05-24,Gaming Laptop,1.0,999999.0,Mumbai,High,999999.0
+9025,2026-05-25,Bluetooth Speaker,2.0,55.0,Chennai,Low,110.0
