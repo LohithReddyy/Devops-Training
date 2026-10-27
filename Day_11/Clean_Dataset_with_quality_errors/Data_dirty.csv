@@ -1,0 +1,27 @@
+OrderID,OrderDate,Product,Quantity,UnitPrice,City
+9001,2026-05-01,Laptop,2,650.0,Chennai
+9002,2026-05-02, mouse ,5,18.5,chennai
+9003,2026-05-03,Monitor,3,180.0,HYDERABAD
+9004,not-a-date,Keyboard,two,32.0,Bengaluru
+9005,2026-05-05,Headphones,,45.0,Pune
+9006,2026-05-06,Webcam,1,unknown,Mumbai
+9007,2026-05-07,External SSD ,2,89.99,
+9008,2026-05-08,Printer,1,155.0, Delhi 
+9009,2026-05-09,Router,3,79.0,Kolkata
+9010,2026-05-10,Gaming Laptop,1,1450.0,Chennai
+9011,2026-05-11,Laptop,1,650.0,Chennai
+9012,2026-05-12,USB Cable,10,7.99,Jaipur
+9013,2026-05-13,Tablet,2,320.0,Lucknow
+9014,2026-05-14,Smartphone,1,499.0,Pune
+9015,2026-05-15,Speaker,4,38.0,Ahmedabad
+9016,2026-05-16,Power Bank,3,25.0,Coimbatore
+9017,2026-05-17,Graphics Card,1,899.0,Visakhapatnam
+9018,2026-05-18,Microphone,2,75.0,Vijayawada
+9019,2026-05-19,Smartwatch,2,120.0,Tirupati
+9020,2026-05-20,Hard Drive,1,69.0,Mysuru
+9021,2026-05-21,Projector,1,410.0,Madurai
+9022,2026-05-22,Docking Station,2,110.0,Trichy
+9023,2026-05-23,Laptop Stand,3,29.0,Salem
+9024,2026-05-24,Gaming Laptop,1,999999.0,Mumbai
+9025,2026-05-25,Bluetooth Speaker,2,55.0, chennai 
+9009,2026-05-09,Router,3,79.0,Kolkata

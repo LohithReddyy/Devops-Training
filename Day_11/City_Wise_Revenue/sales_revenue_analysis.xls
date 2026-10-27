@@ -1,0 +1,42 @@
+OrderID,OrderDate,Product,Quantity,UnitPrice,City,Revenue
+5002,2026-04-02,Mouse,5.0,18.5,Bengaluru,92.5
+5003,2026-04-03,Monitor,2.0,180.0,Hyderabad,360.0
+5004,2026-04-04,Keyboard,3.0,32.0,Mumbai,96.0
+5007,2026-04-07,External Ssd,1.0,89.99,Kolkata,89.99
+5008,2026-04-08,Printer,1.0,155.0,Ahmedabad,155.0
+5010,2026-04-10,Usb Cable,5.0,7.99,Lucknow,39.95
+5011,2026-04-11,Webcam,2.0,54.5,Coimbatore,109.0
+5012,2026-04-12,Router,3.0,79.0,Kochi,237.0
+5014,2026-04-14,Mouse,5.0,18.5,Visakhapatnam,92.5
+5015,2026-04-15,Monitor,2.0,180.0,Vijayawada,360.0
+5016,2026-04-16,Keyboard,3.0,32.0,Tirupati,96.0
+5018,2026-04-18,Headphones,4.0,45.0,Mangaluru,180.0
+5019,2026-04-19,External Ssd,1.0,89.99,Bengaluru,89.99
+5020,2026-04-20,Printer,1.0,155.0,Trichy,155.0
+5023,2026-04-23,Webcam,2.0,54.5,Vellore,109.0
+5024,2026-04-24,Router,3.0,79.0,Tirunelveli,237.0
+5026,2026-04-26,Mouse,5.0,18.5,Nizamabad,92.5
+5027,2026-04-27,Monitor,2.0,180.0,Nagpur,360.0
+5028,2026-04-28,Keyboard,3.0,32.0,Nashik,96.0
+5031,2026-04-03,External Ssd,1.0,89.99,Vadodara,89.99
+5032,2026-04-04,Printer,1.0,155.0,Rajkot,155.0
+5035,2026-04-07,Webcam,2.0,54.5,Gwalior,109.0
+5036,2026-04-08,Router,3.0,79.0,Jabalpur,237.0
+5038,2026-04-10,Mouse,5.0,18.5,Ranchi,92.5
+5039,2026-04-11,Monitor,2.0,180.0,Bhubaneswar,360.0
+5040,2026-04-12,Keyboard,3.0,32.0,Cuttack,96.0
+5042,2026-04-14,Headphones,4.0,45.0,Shillong,180.0
+5043,2026-04-15,External Ssd,1.0,89.99,Imphal,89.99
+5044,2026-04-16,Printer,1.0,155.0,Aizawl,155.0
+5046,2026-04-18,Usb Cable,5.0,7.99,Dehradun,39.95
+5047,2026-04-19,Webcam,2.0,54.5,Haridwar,109.0
+5048,2026-04-20,Router,3.0,79.0,Chandigarh,237.0
+5050,2026-04-22,Mouse,5.0,18.5,Ludhiana,92.5
+5051,2026-04-23,Monitor,2.0,180.0,Jalandhar,360.0
+5052,2026-04-24,Keyboard,3.0,32.0,Jammu,96.0
+5054,2026-04-26,Headphones,4.0,45.0,Noida,180.0
+5055,2026-04-27,External Ssd,1.0,89.99,Gurugram,89.99
+5056,2026-04-28,Printer,1.0,155.0,Faridabad,155.0
+5058,2026-04-02,Usb Cable,5.0,7.99,Kanpur,39.95
+5059,2026-04-03,Webcam,2.0,54.5,Varanasi,109.0
+5060,2026-04-04,Router,3.0,79.0,Prayagraj,237.0
