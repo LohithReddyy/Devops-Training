@@ -1,0 +1,19 @@
+OrderID,CustomerID,OrderDate,OrderStatus,PaymentMethod
+5001,101,2025-05-01,Delivered,UPI
+5002,102,2025-05-02, delivered ,Card
+5003,103,2025-05-03,Shipped,UPI
+5004,101,2025-05-05,Delivered,Net Banking
+5005,104,2025-05-06,Cancelled,Card
+5006,105,2025-05-08,Delivered,UPI
+5007,106,2025-05-10,Processing,Card
+5008,107,2025-05-11,Delivered,Cash on Delivery
+5009,108,2025-05-13,Shipped,UPI
+5010,109,2025-05-15,Delivered,Card
+5011,110,2025-05-16,Cancelled,UPI
+5012,111,2025-05-18,Delivered,Net Banking
+5013,112,2025-05-20,Processing,UPI
+5014,102,2025-05-22,Delivered,Card
+5015,103,2025-05-24,Shipped,Cash on Delivery
+5016,104,2025-05-25,Delivered,UPI
+5017,105,2025-05-27,Delivered,Card
+5018,107,2025-05-29,Delivered,UPI
