@@ -1,0 +1,497 @@
+ORDER_ID,CUSTOMER_ID,ORDER_DATE,CITY,RESTAURANT_NAME,CATEGORY,PRODUCT,QUANTITY,UNIT_PRICE,DISCOUNT_PERCENT,ORDER_STATUS,CUSTOMER_TYPE,SALES_CHANNEL,PAYMENT_METHOD
+SWG00001,CUST0140,2025-10-09,Bengaluru,Cafe Aroma,South Indian,Idli,1,59.54,0,Completed,New,Swiggy App,UPI
+SWG00002,CUST0180,2026-06-02,Tirupati,Pizza Point,Burgers,Veg Burger,2,189.8,10,Completed,Returning,Swiggy Website,UPI
+SWG00003,CUST0027,2025-12-15,Bengaluru,Pizza Point,North Indian,Veg Thali,1,145.98,15,Completed,Returning,Swiggy Website,Wallet
+SWG00004,CUST0142,2026-04-16,Pune,Cafe Aroma,Pizza,Margherita Pizza,2,540.05,5,Returned,Returning,Swiggy App,Net Banking
+SWG00005,CUST0026,2025-08-22,Kochi,Urban Tandoor,South Indian,Idli,3,177.93,15,Completed,Returning,Swiggy App,Debit Card
+SWG00006,CUST0163,2025-10-01,Hyderabad,Sweet Truth,Chinese,Veg Fried Rice,3,239.87,0,Pending,New,Swiggy App,Cash
+SWG00007,CUST0015,2026-10-18,Mumbai,Annapurna Meals,Desserts,Brownie,3,86.35,5,Returned,Returning,Swiggy Website,Debit Card
+SWG00008,CUST0102,2026-08-04,Visakhapatnam,Wok Express,South Indian,Masala Dosa,4,84.05,10,Completed,Returning,Swiggy App,Credit Card
+SWG00009,CUST0036,2026-08-22,Tirupati,Wok Express,Pizza,Chicken Pizza,2,395.91,5,Completed,New,Swiggy App,Credit Card
+SWG00010,CUST0136,2026-09-03,Pune,Sweet Truth,North Indian,Veg Thali,1,189.22,20,Returned,New,Swiggy App,Net Banking
+SWG00011,CUST0068,2025-12-15,Tirupati,The Biryani House,Pizza,Chicken Pizza,1,340.86,5,Cancelled,New,Swiggy Website,Net Banking
+SWG00012,CUST0136,2026-01-18,Chennai,Cafe Aroma,Burgers,Veg Burger,3,186.3,15,Completed,Returning,Swiggy App,UPI
+SWG00013,CUST0022,2025-09-03,Jaipur,Wok Express,Chinese,Chicken Noodles,1,276.82,20,Returned,New,Swiggy App,Credit Card
+SWG00014,CUST0055,2025-06-19,Tirupati,Dosa Corner,Beverages,Mango Lassi,1,135.97,5,Pending,Returning,Swiggy Website,Net Banking
+SWG00015,CUST0006,2026-06-14,Vijayawada,Sweet Truth,Chinese,Chicken Noodles,2,157.1,0,Completed,New,Swiggy App,UPI
+SWG00016,CUST0061,2025-03-11,Pune,Wok Express,Biryani,Mutton Biryani,4,383.51,0,Completed,New,Swiggy Website,Credit Card
+SWG00017,CUST0106,2025-07-14,Coimbatore,Annapurna Meals,Beverages,Fresh Lime Soda,1,112.49,5,Pending,New,Swiggy App,Cash
+SWG00018,CUST0047,2025-09-12,Pune,Wok Express,Chinese,Veg Fried Rice,1,211.89,0,Completed,New,Swiggy Website,Wallet
+SWG00019,CUST0061,2026-10-30,Hyderabad,Pizza Point,South Indian,Idli,5,157.04,20,Completed,Returning,Swiggy App,Cash
+SWG00020,CUST0117,2026-01-24,Pune,Pizza Point,Biryani,Mutton Biryani,1,261.51,20,Pending,Returning,Swiggy App,Credit Card
+SWG00021,CUST0015,2025-03-01,Chennai,Cafe Aroma,Pizza,Margherita Pizza,2,380.61,10,Completed,New,Swiggy App,Wallet
+SWG00022,CUST0031,2025-03-12,Vijayawada,Dosa Corner,South Indian,Masala Dosa,2,134.53,0,Cancelled,New,Swiggy App,Cash
+SWG00023,CUST0034,2025-07-29,Visakhapatnam,Urban Tandoor,Chinese,Chicken Noodles,3,169.69,0,Completed,Returning,Swiggy App,UPI
+SWG00024,CUST0068,2026-07-31,Hyderabad,Burger Junction,Beverages,Mango Lassi,5,48.06,0,Completed,New,Swiggy Website,Debit Card
+SWG00025,CUST0168,2026-07-11,Tirupati,Annapurna Meals,North Indian,Veg Thali,3,249.04,20,Pending,Returning,Swiggy App,Credit Card
+SWG00026,CUST0054,2025-04-20,Jaipur,Burger Junction,Pizza,Margherita Pizza,3,237.52,0,Completed,Returning,Swiggy Website,Debit Card
+SWG00027,CUST0034,2026-10-12,Visakhapatnam,Urban Tandoor,Biryani,Chicken Biryani,2,231.94,0,Completed,Returning,Swiggy Website,Wallet
+SWG00028,CUST0010,2025-03-19,Delhi,Cafe Aroma,Biryani,Chicken Biryani,5,339.67,0,Cancelled,New,Swiggy Website,Credit Card
+SWG00029,CUST0092,2026-01-09,Mumbai,Dosa Corner,Biryani,Veg Biryani,4,366.99,15,Pending,New,Swiggy Website,Wallet
+SWG00030,CUST0046,2025-06-08,Kochi,Annapurna Meals,Desserts,Ice Cream,4,88.41,0,Completed,Returning,Swiggy Website,Net Banking
+SWG00031,CUST0121,2025-06-13,Mumbai,Dosa Corner,Burgers,Chicken Burger,3,117.3,15,Returned,Returning,Swiggy Website,Debit Card
+SWG00032,CUST0018,2025-01-25,Pune,Burger Junction,Burgers,Veg Burger,3,163.75,0,Pending,Returning,Swiggy Website,UPI
+SWG00033,CUST0153,2025-07-02,Kochi,Burger Junction,South Indian,Pongal,2,177.7,0,Pending,Returning,Swiggy Website,Wallet
+SWG00034,CUST0134,2026-08-14,Tirupati,Dosa Corner,South Indian,Mini Tiffin,1,46.21,5,Completed,Returning,Swiggy App,Net Banking
+SWG00035,CUST0130,2025-11-18,Pune,Pizza Point,Chinese,Paneer Manchurian,3,133.68,20,Completed,Returning,Swiggy Website,Wallet
+SWG00036,CUST0045,2026-03-07,Vijayawada,Cafe Aroma,North Indian,Butter Naan,3,188.58,10,Completed,Returning,Swiggy App,Debit Card
+SWG00037,CUST0114,2026-03-17,Coimbatore,Dosa Corner,Pizza,Margherita Pizza,3,404.46,5,Cancelled,Returning,Swiggy App,Net Banking
+SWG00038,CUST0061,2026-06-12,Visakhapatnam,Urban Tandoor,South Indian,Pongal,3,126.7,0,Completed,New,Swiggy App,UPI
+SWG00040,CUST0028,2026-11-03,Kochi,Dosa Corner,Burgers,Veg Burger,3,242.83,15,Completed,Returning,Swiggy App,Wallet
+SWG00041,CUST0144,2026-04-13,Vijayawada,Burger Junction,Burgers,Veg Burger,1,174.34,10,Returned,Returning,Swiggy Website,Wallet
+SWG00042,CUST0071,2026-05-02,Tirupati,Wok Express,Beverages,Cold Coffee,2,122.7,15,Pending,New,Swiggy Website,Cash
+SWG00043,CUST0036,2025-08-29,Hyderabad,Dosa Corner,South Indian,Pongal,1,84.76,10,Completed,New,Swiggy App,UPI
+SWG00044,CUST0108,2025-12-05,Kochi,Cafe Aroma,Desserts,Brownie,2,109.89,0,Pending,New,Swiggy Website,Cash
+SWG00045,CUST0108,2025-11-02,Tirupati,Sweet Truth,Biryani,Veg Biryani,3,381.9,20,Returned,New,Swiggy Website,Credit Card
+SWG00046,CUST0104,2026-05-13,Jaipur,The Biryani House,Pizza,Farmhouse Pizza,1,304.37,10,Returned,Returning,Swiggy App,Wallet
+SWG00047,CUST0035,2026-08-30,Coimbatore,The Biryani House,Biryani,Paneer Biryani,2,167.05,10,Completed,Returning,Swiggy Website,Debit Card
+SWG00048,CUST0108,2025-12-01,Pune,Spice Route,Burgers,Chicken Burger,2,240.74,0,Completed,New,Swiggy App,Debit Card
+SWG00049,CUST0064,2025-03-12,Mumbai,Annapurna Meals,Burgers,Cheese Burger,3,204.28,15,Cancelled,New,Swiggy App,Credit Card
+SWG00050,CUST0095,2025-04-28,Hyderabad,Cafe Aroma,Beverages,Mango Lassi,2,63.98,10,Cancelled,New,Swiggy App,Debit Card
+SWG00051,CUST0051,2025-11-16,Bengaluru,Cafe Aroma,South Indian,Idli,2,167.12,5,Pending,New,Swiggy App,Net Banking
+SWG00052,CUST0011,2026-09-07,Delhi,Sweet Truth,Pizza,Chicken Pizza,3,474.6,10,Completed,Returning,Swiggy App,Wallet
+SWG00054,CUST0063,2026-03-23,Bengaluru,Urban Tandoor,Beverages,Fresh Lime Soda,4,105.17,5,Completed,New,Swiggy Website,Wallet
+SWG00055,CUST0091,2025-01-30,Pune,Burger Junction,Desserts,Brownie,2,99.0,5,Completed,Returning,Swiggy App,Wallet
+SWG00056,CUST0177,2025-09-05,Coimbatore,Wok Express,Burgers,Veg Burger,3,178.17,15,Completed,New,Swiggy App,Debit Card
+SWG00057,CUST0136,2025-09-07,Delhi,Pizza Point,Burgers,Chicken Burger,1,193.05,5,Pending,Returning,Swiggy Website,Net Banking
+SWG00058,CUST0031,2025-11-10,Jaipur,Sweet Truth,Beverages,Fresh Lime Soda,1,53.27,0,Returned,New,Swiggy App,Credit Card
+SWG00059,CUST0026,2026-08-27,Mumbai,Urban Tandoor,Beverages,Fresh Lime Soda,5,97.71,0,Completed,Returning,Swiggy App,Debit Card
+SWG00060,CUST0033,2025-10-08,Visakhapatnam,Wok Express,Biryani,Mutton Biryani,1,174.18,0,Completed,New,Swiggy Website,Cash
+SWG00061,CUST0123,2025-12-15,Bengaluru,Spice Route,Beverages,Fresh Lime Soda,1,45.65,20,Completed,Returning,Swiggy App,Wallet
+SWG00062,CUST0064,2025-06-02,Bengaluru,Sweet Truth,Biryani,Mutton Biryani,3,406.77,0,Returned,Returning,Swiggy App,Wallet
+SWG00063,CUST0146,2026-03-30,Vijayawada,Annapurna Meals,Desserts,Brownie,1,130.62,5,Cancelled,New,Swiggy App,Net Banking
+SWG00064,CUST0001,2025-03-25,Kochi,Wok Express,Burgers,Chicken Burger,1,127.81,0,Pending,Returning,Swiggy Website,UPI
+SWG00066,CUST0043,2025-06-02,Pune,Cafe Aroma,Burgers,Cheese Burger,4,232.26,0,Pending,Returning,Swiggy Website,UPI
+SWG00067,CUST0127,2025-11-08,Coimbatore,Spice Route,Beverages,Mango Lassi,3,143.69,10,Cancelled,New,Swiggy Website,Net Banking
+SWG00068,CUST0148,2025-09-14,Vijayawada,Annapurna Meals,Chinese,Paneer Manchurian,1,153.5,10,Returned,Returning,Swiggy App,Credit Card
+SWG00069,CUST0112,2026-10-30,Visakhapatnam,Wok Express,Beverages,Mango Lassi,2,70.6,20,Completed,Returning,Swiggy Website,Cash
+SWG00070,CUST0074,2025-04-18,Visakhapatnam,Pizza Point,Chinese,Chicken Noodles,4,172.66,10,Returned,New,Swiggy Website,UPI
+SWG00071,CUST0001,2025-11-28,Visakhapatnam,Sweet Truth,Chinese,Chicken Noodles,1,256.78,15,Completed,Returning,Swiggy App,Credit Card
+SWG00072,CUST0141,2026-05-26,Hyderabad,Urban Tandoor,Chinese,Paneer Manchurian,3,254.4,0,Completed,Returning,Swiggy App,UPI
+SWG00073,CUST0058,2025-06-12,Bengaluru,Wok Express,Burgers,Cheese Burger,1,102.19,5,Completed,New,Swiggy Website,Net Banking
+SWG00074,CUST0117,2025-10-07,Tirupati,The Biryani House,Pizza,Chicken Pizza,2,358.52,5,Completed,New,Swiggy App,UPI
+SWG00075,CUST0073,2025-12-15,Jaipur,Urban Tandoor,Pizza,Farmhouse Pizza,4,367.86,15,Returned,Returning,Swiggy App,Cash
+SWG00077,CUST0170,2026-04-30,Visakhapatnam,The Biryani House,Biryani,Veg Biryani,3,370.97,5,Completed,New,Swiggy App,Wallet
+SWG00078,CUST0037,2026-03-27,Kochi,The Biryani House,Chinese,Veg Fried Rice,1,282.98,0,Completed,Returning,Swiggy Website,Debit Card
+SWG00079,CUST0098,2025-03-24,Delhi,Wok Express,Desserts,Ice Cream,4,162.28,15,Returned,New,Swiggy App,Credit Card
+SWG00080,CUST0026,2025-04-03,Coimbatore,The Biryani House,Pizza,Margherita Pizza,2,216.42,10,Pending,Returning,Swiggy App,UPI
+SWG00081,CUST0106,2025-10-28,Vijayawada,The Biryani House,Chinese,Veg Fried Rice,2,191.83,0,Completed,New,Swiggy App,Wallet
+SWG00082,CUST0164,2025-09-04,Pune,Wok Express,Desserts,Ice Cream,2,129.98,0,Completed,New,Swiggy Website,Debit Card
+SWG00083,CUST0109,2026-03-29,Jaipur,Urban Tandoor,North Indian,Paneer Butter Masala,5,346.79,0,Completed,Returning,Swiggy App,Cash
+SWG00084,CUST0180,2025-08-31,Pune,Annapurna Meals,Beverages,Cold Coffee,2,79.49,0,Returned,Returning,Swiggy Website,UPI
+SWG00085,CUST0057,2025-10-21,Visakhapatnam,Dosa Corner,Biryani,Paneer Biryani,3,219.83,15,Cancelled,Returning,Swiggy App,Net Banking
+SWG00086,CUST0034,2025-11-13,Bengaluru,Urban Tandoor,South Indian,Idli,3,44.67,5,Completed,Returning,Swiggy App,Credit Card
+SWG00087,CUST0124,2026-06-28,Pune,Burger Junction,North Indian,Dal Makhani,2,160.86,0,Returned,New,Swiggy Website,UPI
+SWG00088,CUST0102,2026-02-11,Chennai,Urban Tandoor,North Indian,Butter Naan,5,299.19,5,Cancelled,New,Swiggy Website,Debit Card
+SWG00089,CUST0060,2026-01-26,Coimbatore,Annapurna Meals,Pizza,Chicken Pizza,4,527.91,0,Cancelled,Returning,Swiggy App,Net Banking
+SWG00090,CUST0010,2025-11-06,Pune,Wok Express,South Indian,Mini Tiffin,3,56.33,0,Completed,New,Swiggy App,Wallet
+SWG00091,CUST0139,2026-04-10,Kochi,Cafe Aroma,North Indian,Veg Thali,2,336.84,10,Pending,New,Swiggy Website,Net Banking
+SWG00092,CUST0095,2026-09-23,Mumbai,Wok Express,South Indian,Mini Tiffin,2,173.21,0,Completed,New,Swiggy Website,UPI
+SWG00093,CUST0032,2026-10-23,Coimbatore,Spice Route,Chinese,Paneer Manchurian,2,185.65,0,Pending,New,Swiggy App,UPI
+SWG00094,CUST0142,2025-05-09,Mumbai,Cafe Aroma,Chinese,Veg Fried Rice,3,148.99,15,Completed,New,Swiggy Website,Credit Card
+SWG00095,CUST0029,2025-05-29,Visakhapatnam,Annapurna Meals,Biryani,Veg Biryani,5,300.46,15,Completed,New,Swiggy Website,Credit Card
+SWG00096,CUST0030,2025-06-28,Jaipur,Spice Route,Chinese,Veg Fried Rice,1,134.08,5,Completed,Returning,Swiggy Website,Wallet
+SWG00097,CUST0169,2026-05-31,Tirupati,Urban Tandoor,South Indian,Mini Tiffin,1,126.11,10,Completed,New,Swiggy App,Cash
+SWG00098,CUST0021,2025-04-21,Delhi,Cafe Aroma,Desserts,Brownie,2,169.16,0,Completed,New,Swiggy App,Debit Card
+SWG00099,CUST0026,2026-09-04,Jaipur,Spice Route,Chinese,Chicken Noodles,2,196.21,10,Returned,New,Swiggy Website,Cash
+SWG00100,CUST0081,2025-12-14,Kochi,Burger Junction,Burgers,Chicken Burger,4,163.8,10,Pending,Returning,Swiggy Website,Credit Card
+SWG00101,CUST0096,2025-04-04,Hyderabad,Sweet Truth,Beverages,Cold Coffee,4,50.26,0,Completed,Returning,Swiggy App,Cash
+SWG00102,CUST0154,2026-03-10,Pune,Burger Junction,Chinese,Paneer Manchurian,4,247.0,20,Completed,New,Swiggy App,Net Banking
+SWG00103,CUST0072,2025-04-21,Vijayawada,Dosa Corner,Beverages,Cold Coffee,2,101.19,0,Returned,Returning,Swiggy App,Wallet
+SWG00104,CUST0090,2025-07-04,Chennai,The Biryani House,Pizza,Margherita Pizza,1,462.09,20,Returned,New,Swiggy Website,UPI
+SWG00105,CUST0088,2025-04-04,Hyderabad,Burger Junction,North Indian,Paneer Butter Masala,3,145.93,5,Completed,Returning,Swiggy App,UPI
+SWG00106,CUST0109,2026-09-25,Coimbatore,Cafe Aroma,North Indian,Butter Naan,1,111.21,5,Completed,Returning,Swiggy Website,Credit Card
+SWG00107,CUST0135,2026-03-17,Visakhapatnam,Urban Tandoor,South Indian,Pongal,1,134.95,10,Completed,New,Swiggy Website,Wallet
+SWG00108,CUST0066,2025-07-29,Pune,Burger Junction,Biryani,Chicken Biryani,1,214.92,0,Completed,New,Swiggy Website,Net Banking
+SWG00109,CUST0172,2025-05-13,Delhi,Spice Route,Desserts,Gulab Jamun,2,144.44,10,Completed,New,Swiggy Website,UPI
+SWG00110,CUST0107,2025-11-17,Pune,Spice Route,Beverages,Cold Coffee,2,103.07,10,Completed,New,Swiggy Website,Credit Card
+SWG00111,CUST0151,2026-01-06,Kochi,Sweet Truth,Beverages,Mango Lassi,1,132.89,0,Completed,Returning,Swiggy Website,Net Banking
+SWG00112,CUST0136,2025-12-08,Tirupati,Dosa Corner,Chinese,Veg Fried Rice,3,124.51,10,Returned,Returning,Swiggy Website,Net Banking
+SWG00113,CUST0168,2025-04-16,Bengaluru,The Biryani House,North Indian,Butter Naan,1,141.29,10,Returned,Returning,Swiggy Website,Wallet
+SWG00114,CUST0161,2026-08-02,Delhi,The Biryani House,Beverages,Mango Lassi,3,148.52,5,Completed,New,Swiggy Website,Cash
+SWG00115,CUST0116,2026-08-29,Chennai,Annapurna Meals,Pizza,Farmhouse Pizza,1,367.71,5,Completed,Returning,Swiggy App,Net Banking
+SWG00116,CUST0011,2026-04-19,Coimbatore,Cafe Aroma,South Indian,Mini Tiffin,2,173.59,10,Pending,New,Swiggy Website,Wallet
+SWG00117,CUST0088,2025-06-04,Jaipur,Spice Route,Beverages,Mango Lassi,5,89.56,15,Cancelled,New,Swiggy App,Credit Card
+SWG00118,CUST0073,2026-06-21,Kochi,Pizza Point,Beverages,Fresh Lime Soda,2,57.46,5,Returned,Returning,Swiggy App,Net Banking
+SWG00119,CUST0169,2025-12-04,Vijayawada,The Biryani House,Chinese,Veg Fried Rice,1,238.89,0,Completed,New,Swiggy App,Debit Card
+SWG00120,CUST0144,2026-02-06,Kochi,Burger Junction,Pizza,Chicken Pizza,1,442.27,0,Returned,New,Swiggy App,Net Banking
+SWG00121,CUST0088,2026-01-06,Coimbatore,Dosa Corner,Desserts,Ice Cream,1,97.06,20,Completed,New,Swiggy App,UPI
+SWG00122,CUST0010,2026-06-04,Visakhapatnam,Burger Junction,Pizza,Margherita Pizza,3,488.99,15,Returned,New,Swiggy Website,Credit Card
+SWG00123,CUST0106,2026-10-02,Delhi,Dosa Corner,North Indian,Butter Naan,3,133.04,5,Completed,Returning,Swiggy Website,Credit Card
+SWG00124,CUST0147,2026-04-26,Coimbatore,Wok Express,Burgers,Chicken Burger,4,131.04,10,Returned,Returning,Swiggy Website,Wallet
+SWG00125,CUST0165,2025-07-24,Coimbatore,Burger Junction,Desserts,Gulab Jamun,3,76.61,0,Cancelled,New,Swiggy App,Debit Card
+SWG00126,CUST0024,2025-10-07,Mumbai,Wok Express,South Indian,Masala Dosa,2,111.87,15,Completed,New,Swiggy Website,UPI
+SWG00127,CUST0008,2026-01-18,Delhi,Spice Route,Desserts,Ice Cream,1,179.34,5,Returned,Returning,Swiggy App,Credit Card
+SWG00128,CUST0115,2026-04-29,Vijayawada,Annapurna Meals,Biryani,Veg Biryani,3,196.09,10,Completed,New,Swiggy Website,Credit Card
+SWG00129,CUST0062,2025-04-24,Kochi,Cafe Aroma,North Indian,Veg Thali,3,151.79,0,Completed,New,Swiggy App,Cash
+SWG00130,CUST0147,2025-05-28,Kochi,The Biryani House,Biryani,Mutton Biryani,1,160.41,5,Pending,New,Swiggy Website,UPI
+SWG00131,CUST0005,2026-04-27,Delhi,Spice Route,Biryani,Paneer Biryani,1,260.59,5,Completed,New,Swiggy App,Wallet
+SWG00132,CUST0176,2025-02-15,Coimbatore,Wok Express,Chinese,Veg Fried Rice,2,174.32,10,Pending,New,Swiggy App,UPI
+SWG00133,CUST0081,2025-10-28,Pune,Sweet Truth,Beverages,Cold Coffee,1,127.02,15,Completed,Returning,Swiggy Website,UPI
+SWG00134,CUST0070,2026-01-01,Bengaluru,Burger Junction,Burgers,Chicken Burger,4,107.65,10,Completed,Returning,Swiggy Website,Cash
+SWG00135,CUST0069,2026-05-24,Bengaluru,Pizza Point,Chinese,Veg Fried Rice,3,179.8,15,Completed,Returning,Swiggy App,Wallet
+SWG00136,CUST0155,2025-04-16,Jaipur,Pizza Point,Pizza,Farmhouse Pizza,1,424.54,5,Completed,Returning,Swiggy Website,Cash
+SWG00137,CUST0015,2026-09-22,Bengaluru,Pizza Point,Biryani,Veg Biryani,5,231.38,20,Completed,New,Swiggy App,Credit Card
+SWG00138,CUST0099,2025-05-10,Vijayawada,Annapurna Meals,Beverages,Cold Coffee,1,125.64,5,Cancelled,New,Swiggy Website,Debit Card
+SWG00139,CUST0167,2025-03-20,Pune,Dosa Corner,Chinese,Chicken Noodles,2,210.6,5,Completed,New,Swiggy App,Cash
+SWG00140,CUST0157,2025-05-01,Pune,Wok Express,Desserts,Ice Cream,1,91.23,5,Completed,New,Swiggy App,UPI
+SWG00141,CUST0082,2026-04-01,Visakhapatnam,Burger Junction,Beverages,Cold Coffee,5,129.16,20,Pending,New,Swiggy Website,Debit Card
+SWG00142,CUST0036,2026-01-06,Mumbai,Wok Express,North Indian,Butter Naan,2,121.55,0,Completed,Returning,Swiggy Website,Cash
+SWG00143,CUST0135,2025-03-09,Kochi,Pizza Point,North Indian,Paneer Butter Masala,1,349.89,10,Returned,New,Swiggy App,Debit Card
+SWG00144,CUST0142,2026-04-23,Visakhapatnam,Cafe Aroma,South Indian,Mini Tiffin,3,88.23,15,Completed,New,Swiggy Website,Wallet
+SWG00145,CUST0058,2026-06-15,Delhi,Sweet Truth,Biryani,Chicken Biryani,1,202.81,5,Completed,New,Swiggy Website,Credit Card
+SWG00146,CUST0044,2026-10-03,Vijayawada,Cafe Aroma,Pizza,Margherita Pizza,1,377.39,10,Completed,New,Swiggy Website,Wallet
+SWG00147,CUST0167,2025-03-25,Mumbai,Cafe Aroma,Biryani,Chicken Biryani,1,326.78,10,Completed,New,Swiggy Website,Net Banking
+SWG00148,CUST0077,2025-11-06,Coimbatore,Spice Route,Pizza,Chicken Pizza,2,477.73,10,Pending,New,Swiggy App,Cash
+SWG00149,CUST0082,2026-04-21,Jaipur,Burger Junction,Desserts,Brownie,1,132.8,5,Completed,New,Swiggy Website,Wallet
+SWG00150,CUST0025,2025-09-05,Chennai,Urban Tandoor,South Indian,Pongal,2,77.45,0,Completed,Returning,Swiggy App,Credit Card
+SWG00151,CUST0120,2025-11-17,Coimbatore,Urban Tandoor,Chinese,Paneer Manchurian,1,140.28,20,Completed,New,Swiggy App,Cash
+SWG00152,CUST0153,2025-08-09,Visakhapatnam,Wok Express,Beverages,Cold Coffee,2,45.35,0,Completed,New,Swiggy App,Cash
+SWG00153,CUST0146,2026-01-10,Tirupati,Dosa Corner,North Indian,Dal Makhani,3,185.14,5,Completed,Returning,Swiggy App,Cash
+SWG00154,CUST0033,2025-10-14,Bengaluru,Pizza Point,Beverages,Mango Lassi,4,108.56,10,Completed,Returning,Swiggy Website,Credit Card
+SWG00155,CUST0086,2026-06-06,Coimbatore,Sweet Truth,Burgers,Cheese Burger,2,106.44,0,Completed,New,Swiggy App,Debit Card
+SWG00156,CUST0087,2026-02-07,Tirupati,Sweet Truth,Chinese,Veg Fried Rice,5,250.47,0,Cancelled,Returning,Swiggy Website,Cash
+SWG00157,CUST0177,2025-12-06,Visakhapatnam,Annapurna Meals,Biryani,Veg Biryani,3,414.77,10,Cancelled,Returning,Swiggy Website,Net Banking
+SWG00158,CUST0159,2025-02-22,Kochi,The Biryani House,Burgers,Cheese Burger,2,127.28,10,Returned,New,Swiggy App,Wallet
+SWG00159,CUST0053,2025-01-20,Kochi,Sweet Truth,South Indian,Masala Dosa,2,98.63,5,Returned,Returning,Swiggy App,Net Banking
+SWG00160,CUST0081,2026-07-29,Hyderabad,Wok Express,North Indian,Butter Naan,2,262.18,10,Cancelled,Returning,Swiggy Website,Net Banking
+SWG00161,CUST0058,2026-05-11,Pune,Urban Tandoor,Pizza,Chicken Pizza,1,271.21,10,Pending,New,Swiggy Website,Debit Card
+SWG00162,CUST0032,2026-07-28,Vijayawada,Sweet Truth,Beverages,Fresh Lime Soda,4,127.49,0,Completed,Returning,Swiggy Website,Credit Card
+SWG00163,CUST0168,2025-10-22,Pune,Wok Express,Pizza,Margherita Pizza,5,209.24,20,Completed,New,Swiggy Website,Wallet
+SWG00164,CUST0172,2025-04-22,Tirupati,Dosa Corner,Pizza,Margherita Pizza,2,397.13,0,Pending,New,Swiggy App,UPI
+SWG00165,CUST0141,2026-04-29,Hyderabad,Pizza Point,Desserts,Brownie,1,152.49,0,Pending,Returning,Swiggy Website,Net Banking
+SWG00166,CUST0167,2025-11-25,Vijayawada,Dosa Corner,Burgers,Chicken Burger,1,109.47,15,Cancelled,New,Swiggy App,Cash
+SWG00167,CUST0075,2026-02-11,Chennai,Annapurna Meals,North Indian,Paneer Butter Masala,3,138.44,10,Completed,New,Swiggy Website,Debit Card
+SWG00168,CUST0130,2026-07-11,Coimbatore,Urban Tandoor,Beverages,Mango Lassi,2,137.82,0,Completed,New,Swiggy Website,Credit Card
+SWG00169,CUST0076,2025-09-21,Vijayawada,Dosa Corner,Beverages,Mango Lassi,3,41.55,5,Completed,Returning,Swiggy Website,Wallet
+SWG00170,CUST0083,2026-02-15,Mumbai,Annapurna Meals,Chinese,Veg Fried Rice,3,145.11,0,Completed,Returning,Swiggy App,Cash
+SWG00171,CUST0093,2025-11-06,Jaipur,Dosa Corner,Pizza,Farmhouse Pizza,2,391.96,0,Completed,New,Swiggy Website,Debit Card
+SWG00172,CUST0177,2026-05-30,Bengaluru,Urban Tandoor,North Indian,Veg Thali,4,320.83,15,Completed,New,Swiggy App,Credit Card
+SWG00173,CUST0141,2026-04-11,Coimbatore,Sweet Truth,Beverages,Cold Coffee,3,106.63,5,Returned,New,Swiggy App,Net Banking
+SWG00174,CUST0016,2026-06-25,Tirupati,Sweet Truth,South Indian,Mini Tiffin,3,50.93,10,Completed,New,Swiggy App,Debit Card
+SWG00175,CUST0115,2025-07-30,Chennai,Wok Express,Beverages,Cold Coffee,3,93.77,15,Completed,Returning,Swiggy Website,Wallet
+SWG00176,CUST0056,2025-11-12,Vijayawada,Spice Route,Biryani,Paneer Biryani,3,262.95,15,Completed,Returning,Swiggy Website,Net Banking
+SWG00177,CUST0047,2025-03-12,Hyderabad,Pizza Point,South Indian,Idli,5,106.09,0,Completed,Returning,Swiggy Website,Cash
+SWG00178,CUST0138,2026-07-07,Kochi,Sweet Truth,Desserts,Gulab Jamun,1,163.23,0,Completed,New,Swiggy App,UPI
+SWG00179,CUST0118,2026-07-12,Delhi,The Biryani House,Pizza,Farmhouse Pizza,2,320.33,0,Completed,New,Swiggy App,UPI
+SWG00180,CUST0115,2025-01-17,Vijayawada,Annapurna Meals,Desserts,Ice Cream,1,68.07,10,Completed,New,Swiggy Website,Cash
+SWG00181,CUST0075,2025-08-11,Mumbai,Cafe Aroma,Burgers,Cheese Burger,3,224.17,0,Completed,Returning,Swiggy App,Debit Card
+SWG00182,CUST0045,2026-02-28,Visakhapatnam,Pizza Point,North Indian,Butter Naan,1,105.85,20,Cancelled,Returning,Swiggy App,Debit Card
+SWG00183,CUST0048,2025-11-23,Tirupati,Wok Express,Desserts,Ice Cream,3,108.99,0,Completed,New,Swiggy Website,Net Banking
+SWG00184,CUST0035,2025-03-01,Kochi,Dosa Corner,North Indian,Veg Thali,2,341.62,10,Completed,New,Swiggy Website,Net Banking
+SWG00185,CUST0069,2026-01-15,Kochi,Cafe Aroma,South Indian,Mini Tiffin,1,141.44,0,Cancelled,New,Swiggy App,Credit Card
+SWG00186,CUST0004,2025-08-02,Mumbai,Dosa Corner,Burgers,Chicken Burger,4,153.27,20,Pending,New,Swiggy Website,Credit Card
+SWG00187,CUST0137,2025-09-03,Visakhapatnam,Burger Junction,Burgers,Chicken Burger,2,224.08,5,Completed,Returning,Swiggy Website,Wallet
+SWG00188,CUST0082,2025-04-11,Mumbai,Burger Junction,Beverages,Fresh Lime Soda,3,119.47,15,Completed,Returning,Swiggy App,Wallet
+SWG00189,CUST0107,2025-05-30,Pune,The Biryani House,Burgers,Cheese Burger,1,188.53,10,Completed,Returning,Swiggy App,Cash
+SWG00190,CUST0126,2026-07-18,Jaipur,Wok Express,Burgers,Chicken Burger,3,209.58,0,Completed,New,Swiggy Website,Credit Card
+SWG00191,CUST0016,2025-07-08,Tirupati,Annapurna Meals,North Indian,Veg Thali,4,230.96,10,Returned,New,Swiggy App,UPI
+SWG00192,CUST0130,2026-10-08,Coimbatore,Burger Junction,Desserts,Gulab Jamun,1,144.86,0,Completed,Returning,Swiggy Website,UPI
+SWG00193,CUST0074,2025-01-13,Chennai,Sweet Truth,Biryani,Paneer Biryani,1,347.77,10,Returned,Returning,Swiggy App,UPI
+SWG00194,CUST0069,2025-09-04,Kochi,Spice Route,South Indian,Masala Dosa,1,113.7,15,Completed,Returning,Swiggy Website,Wallet
+SWG00195,CUST0167,2025-08-20,Chennai,Spice Route,Burgers,Cheese Burger,1,232.49,0,Completed,Returning,Swiggy Website,Wallet
+SWG00196,CUST0112,2026-10-15,Visakhapatnam,Burger Junction,Beverages,Cold Coffee,1,58.85,5,Cancelled,New,Swiggy App,Credit Card
+SWG00197,CUST0072,2026-08-04,Tirupati,Cafe Aroma,Burgers,Cheese Burger,2,107.45,0,Pending,New,Swiggy App,Debit Card
+SWG00198,CUST0020,2026-08-25,Pune,The Biryani House,Biryani,Mutton Biryani,1,373.38,15,Cancelled,New,Swiggy Website,Net Banking
+SWG00199,CUST0089,2025-05-24,Chennai,Spice Route,Chinese,Chicken Noodles,3,240.97,0,Completed,New,Swiggy App,Debit Card
+SWG00200,CUST0059,2025-01-31,Delhi,Sweet Truth,Desserts,Brownie,3,154.03,5,Completed,Returning,Swiggy App,Net Banking
+SWG00201,CUST0069,2026-09-26,Hyderabad,Pizza Point,Desserts,Gulab Jamun,1,89.57,0,Pending,New,Swiggy Website,Debit Card
+SWG00202,CUST0070,2025-04-04,Bengaluru,The Biryani House,Chinese,Veg Fried Rice,1,168.57,5,Completed,New,Swiggy Website,Cash
+SWG00203,CUST0084,2025-01-27,Kochi,Annapurna Meals,Desserts,Gulab Jamun,1,126.51,10,Completed,Returning,Swiggy Website,UPI
+SWG00204,CUST0078,2026-06-18,Pune,Wok Express,Burgers,Cheese Burger,1,160.92,0,Completed,New,Swiggy App,Cash
+SWG00205,CUST0064,2025-11-03,Jaipur,Wok Express,Pizza,Farmhouse Pizza,2,208.46,0,Cancelled,New,Swiggy Website,UPI
+SWG00206,CUST0085,2025-01-07,Coimbatore,Burger Junction,North Indian,Dal Makhani,5,176.38,10,Completed,New,Swiggy Website,Debit Card
+SWG00207,CUST0178,2025-11-18,Visakhapatnam,Wok Express,Burgers,Chicken Burger,1,163.72,5,Cancelled,New,Swiggy Website,Cash
+SWG00208,CUST0140,2026-01-09,Hyderabad,Sweet Truth,Pizza,Farmhouse Pizza,1,388.62,10,Completed,Returning,Swiggy App,Cash
+SWG00209,CUST0128,2025-03-12,Hyderabad,Urban Tandoor,Pizza,Chicken Pizza,3,474.39,5,Completed,Returning,Swiggy App,Net Banking
+SWG00210,CUST0137,2025-03-17,Tirupati,Pizza Point,Desserts,Brownie,2,131.75,10,Cancelled,New,Swiggy Website,Net Banking
+SWG00211,CUST0012,2025-09-12,Vijayawada,Pizza Point,South Indian,Idli,3,89.7,10,Returned,Returning,Swiggy Website,UPI
+SWG00212,CUST0177,2025-09-22,Vijayawada,Dosa Corner,Biryani,Chicken Biryani,1,354.18,10,Completed,Returning,Swiggy Website,Cash
+SWG00213,CUST0022,2025-01-26,Bengaluru,The Biryani House,North Indian,Dal Makhani,2,166.81,20,Completed,Returning,Swiggy Website,Cash
+SWG00214,CUST0116,2026-05-10,Delhi,Spice Route,Burgers,Cheese Burger,2,115.62,10,Completed,New,Swiggy App,UPI
+SWG00215,CUST0063,2025-04-22,Tirupati,The Biryani House,Chinese,Paneer Manchurian,3,141.23,20,Cancelled,New,Swiggy Website,Wallet
+SWG00216,CUST0169,2025-08-26,Kochi,Pizza Point,Desserts,Brownie,3,135.57,0,Completed,New,Swiggy Website,Wallet
+SWG00217,CUST0017,2025-01-05,Vijayawada,Spice Route,Desserts,Brownie,3,84.69,15,Returned,New,Swiggy Website,Debit Card
+SWG00218,CUST0164,2025-04-27,Delhi,Cafe Aroma,Burgers,Chicken Burger,1,238.02,10,Completed,Returning,Swiggy App,Debit Card
+SWG00219,CUST0158,2026-09-25,Vijayawada,Spice Route,Chinese,Chicken Noodles,1,237.98,15,Pending,New,Swiggy Website,UPI
+SWG00220,CUST0108,2025-04-30,Vijayawada,The Biryani House,Burgers,Chicken Burger,1,210.95,10,Cancelled,Returning,Swiggy Website,Credit Card
+SWG00221,CUST0143,2026-07-05,Hyderabad,Wok Express,Beverages,Mango Lassi,3,110.98,20,Completed,New,Swiggy App,Debit Card
+SWG00222,CUST0050,2025-02-24,Kochi,Sweet Truth,Beverages,Mango Lassi,4,144.7,5,Cancelled,Returning,Swiggy Website,Net Banking
+SWG00223,CUST0057,2026-03-31,Pune,Annapurna Meals,Beverages,Fresh Lime Soda,2,49.09,0,Completed,New,Swiggy Website,Credit Card
+SWG00224,CUST0140,2026-05-23,Delhi,Sweet Truth,Beverages,Mango Lassi,2,52.45,0,Returned,New,Swiggy Website,Wallet
+SWG00225,CUST0009,2025-04-15,Coimbatore,Urban Tandoor,Burgers,Chicken Burger,3,204.59,0,Completed,New,Swiggy Website,UPI
+SWG00226,CUST0110,2026-08-26,Hyderabad,Cafe Aroma,Burgers,Veg Burger,3,237.77,10,Completed,New,Swiggy App,UPI
+SWG00227,CUST0075,2025-10-15,Pune,Cafe Aroma,Chinese,Paneer Manchurian,2,141.99,20,Completed,New,Swiggy App,Cash
+SWG00228,CUST0083,2026-11-03,Mumbai,Pizza Point,Biryani,Veg Biryani,1,385.18,0,Completed,New,Swiggy Website,Net Banking
+SWG00229,CUST0104,2026-04-08,Tirupati,Urban Tandoor,Desserts,Brownie,1,155.35,15,Pending,Returning,Swiggy Website,Cash
+SWG00230,CUST0118,2025-01-03,Visakhapatnam,Burger Junction,Chinese,Paneer Manchurian,4,270.96,0,Returned,New,Swiggy Website,Credit Card
+SWG00231,CUST0148,2026-05-22,Hyderabad,Cafe Aroma,Desserts,Gulab Jamun,1,159.4,5,Returned,Returning,Swiggy Website,Net Banking
+SWG00232,CUST0041,2025-04-12,Coimbatore,Wok Express,Biryani,Chicken Biryani,3,377.54,0,Completed,Returning,Swiggy App,Net Banking
+SWG00233,CUST0093,2025-06-12,Pune,Spice Route,North Indian,Dal Makhani,4,317.91,0,Completed,New,Swiggy App,Cash
+SWG00234,CUST0055,2025-08-28,Coimbatore,Spice Route,Pizza,Chicken Pizza,2,213.74,0,Completed,New,Swiggy Website,UPI
+SWG00235,CUST0019,2025-05-04,Mumbai,Pizza Point,Biryani,Veg Biryani,5,269.8,0,Completed,New,Swiggy App,Debit Card
+SWG00236,CUST0165,2025-05-21,Visakhapatnam,The Biryani House,Chinese,Chicken Noodles,2,264.54,15,Completed,New,Swiggy App,Cash
+SWG00237,CUST0176,2025-08-07,Coimbatore,Dosa Corner,Chinese,Paneer Manchurian,3,138.76,5,Completed,New,Swiggy App,UPI
+SWG00238,CUST0022,2026-03-16,Mumbai,Sweet Truth,Desserts,Brownie,1,76.78,0,Cancelled,Returning,Swiggy App,Net Banking
+SWG00239,CUST0166,2026-06-15,Chennai,Dosa Corner,Pizza,Margherita Pizza,2,249.8,5,Completed,Returning,Swiggy App,Credit Card
+SWG00240,CUST0093,2026-09-01,Delhi,The Biryani House,Beverages,Mango Lassi,1,137.76,0,Completed,Returning,Swiggy Website,Wallet
+SWG00241,CUST0011,2025-03-16,Chennai,Pizza Point,North Indian,Veg Thali,1,107.56,0,Cancelled,Returning,Swiggy Website,Cash
+SWG00242,CUST0080,2026-10-18,Bengaluru,Sweet Truth,Desserts,Gulab Jamun,2,133.93,0,Completed,New,Swiggy Website,Cash
+SWG00243,CUST0023,2026-03-24,Kochi,Spice Route,South Indian,Pongal,3,158.51,0,Completed,New,Swiggy Website,Net Banking
+SWG00244,CUST0089,2025-01-13,Tirupati,Sweet Truth,North Indian,Paneer Butter Masala,3,272.39,0,Returned,Returning,Swiggy App,Debit Card
+SWG00245,CUST0070,2025-05-01,Tirupati,Spice Route,North Indian,Dal Makhani,3,97.63,15,Completed,New,Swiggy Website,Cash
+SWG00246,CUST0027,2026-05-27,Vijayawada,Spice Route,Chinese,Veg Fried Rice,4,141.71,0,Completed,New,Swiggy App,UPI
+SWG00247,CUST0010,2026-04-29,Tirupati,Pizza Point,Burgers,Veg Burger,2,247.24,0,Completed,Returning,Swiggy App,Cash
+SWG00248,CUST0014,2025-03-21,Hyderabad,Dosa Corner,Chinese,Chicken Noodles,2,132.69,10,Returned,New,Swiggy Website,UPI
+SWG00249,CUST0052,2025-11-15,Pune,Cafe Aroma,Beverages,Fresh Lime Soda,2,100.84,0,Returned,Returning,Swiggy App,Cash
+SWG00250,CUST0140,2026-05-21,Mumbai,The Biryani House,Chinese,Paneer Manchurian,5,257.42,10,Completed,Returning,Swiggy App,Credit Card
+SWG00251,CUST0079,2025-01-10,Bengaluru,Dosa Corner,Chinese,Paneer Manchurian,5,110.28,10,Cancelled,New,Swiggy Website,Cash
+SWG00252,CUST0134,2025-10-14,Kochi,Burger Junction,Biryani,Mutton Biryani,1,399.53,15,Completed,New,Swiggy App,Wallet
+SWG00253,CUST0034,2025-03-18,Mumbai,Urban Tandoor,North Indian,Veg Thali,2,106.19,10,Completed,Returning,Swiggy Website,Net Banking
+SWG00254,CUST0150,2026-04-09,Bengaluru,The Biryani House,Chinese,Chicken Noodles,1,124.19,0,Completed,New,Swiggy Website,Cash
+SWG00255,CUST0079,2025-05-04,Coimbatore,Urban Tandoor,Chinese,Chicken Noodles,2,293.28,0,Returned,New,Swiggy App,Credit Card
+SWG00256,CUST0024,2026-09-10,Jaipur,Dosa Corner,Pizza,Chicken Pizza,1,489.29,5,Completed,Returning,Swiggy App,Net Banking
+SWG00257,CUST0141,2025-06-28,Mumbai,Spice Route,Pizza,Farmhouse Pizza,1,329.63,5,Completed,New,Swiggy App,UPI
+SWG00258,CUST0162,2025-08-16,Visakhapatnam,Spice Route,Biryani,Chicken Biryani,1,374.16,5,Cancelled,Returning,Swiggy App,UPI
+SWG00259,CUST0085,2026-10-24,Bengaluru,Annapurna Meals,South Indian,Masala Dosa,2,58.03,20,Completed,New,Swiggy App,Wallet
+SWG00260,CUST0091,2026-02-09,Mumbai,The Biryani House,Desserts,Ice Cream,2,105.93,5,Completed,Returning,Swiggy Website,Credit Card
+SWG00261,CUST0016,2026-10-25,Bengaluru,Urban Tandoor,Biryani,Mutton Biryani,1,267.12,10,Completed,New,Swiggy Website,Credit Card
+SWG00262,CUST0092,2026-07-11,Coimbatore,Sweet Truth,Burgers,Cheese Burger,3,258.3,15,Returned,Returning,Swiggy Website,Wallet
+SWG00263,CUST0072,2025-10-04,Chennai,Wok Express,Chinese,Chicken Noodles,1,170.59,0,Cancelled,Returning,Swiggy App,Credit Card
+SWG00264,CUST0015,2026-11-04,Mumbai,Cafe Aroma,South Indian,Masala Dosa,1,114.72,15,Returned,Returning,Swiggy Website,Credit Card
+SWG00265,CUST0152,2026-08-30,Chennai,Burger Junction,North Indian,Butter Naan,1,281.91,5,Cancelled,New,Swiggy App,Cash
+SWG00266,CUST0006,2026-05-18,Tirupati,Wok Express,Pizza,Margherita Pizza,1,200.78,10,Completed,Returning,Swiggy App,Credit Card
+SWG00267,CUST0006,2025-07-01,Hyderabad,Cafe Aroma,Chinese,Paneer Manchurian,4,270.41,5,Pending,New,Swiggy App,Wallet
+SWG00268,CUST0087,2026-01-18,Pune,Burger Junction,Chinese,Veg Fried Rice,3,235.81,10,Completed,New,Swiggy Website,Net Banking
+SWG00269,CUST0158,2025-11-21,Delhi,Dosa Corner,Beverages,Mango Lassi,1,146.56,10,Pending,New,Swiggy Website,Debit Card
+SWG00270,CUST0101,2025-07-01,Vijayawada,Annapurna Meals,Pizza,Margherita Pizza,3,531.05,20,Completed,Returning,Swiggy App,Net Banking
+SWG00271,CUST0082,2025-05-25,Hyderabad,Spice Route,South Indian,Mini Tiffin,2,50.89,5,Returned,Returning,Swiggy Website,UPI
+SWG00272,CUST0001,2025-09-13,Chennai,Pizza Point,Pizza,Margherita Pizza,3,309.68,15,Completed,Returning,Swiggy App,Cash
+SWG00273,CUST0148,2025-12-26,Visakhapatnam,Dosa Corner,Beverages,Fresh Lime Soda,2,51.16,5,Completed,Returning,Swiggy App,UPI
+SWG00274,CUST0097,2025-11-23,Hyderabad,Spice Route,Pizza,Margherita Pizza,1,218.75,5,Cancelled,New,Swiggy Website,Wallet
+SWG00275,CUST0112,2025-02-01,Hyderabad,Annapurna Meals,Beverages,Mango Lassi,2,111.9,10,Completed,Returning,Swiggy App,Credit Card
+SWG00276,CUST0073,2026-07-22,Pune,Dosa Corner,Desserts,Ice Cream,3,147.6,0,Completed,New,Swiggy Website,Wallet
+SWG00277,CUST0170,2025-02-25,Visakhapatnam,Cafe Aroma,Beverages,Cold Coffee,2,87.04,0,Completed,New,Swiggy App,UPI
+SWG00278,CUST0079,2026-10-16,Kochi,Wok Express,Burgers,Veg Burger,1,113.11,15,Completed,Returning,Swiggy App,Net Banking
+SWG00279,CUST0068,2026-01-15,Coimbatore,Wok Express,Desserts,Gulab Jamun,4,104.33,5,Completed,New,Swiggy Website,Wallet
+SWG00280,CUST0151,2025-04-10,Mumbai,Sweet Truth,Biryani,Mutton Biryani,1,249.39,10,Completed,Returning,Swiggy Website,Wallet
+SWG00281,CUST0009,2025-08-30,Tirupati,Cafe Aroma,Beverages,Mango Lassi,2,48.69,20,Cancelled,New,Swiggy App,Cash
+SWG00282,CUST0175,2025-08-05,Kochi,Dosa Corner,North Indian,Butter Naan,3,122.81,5,Returned,New,Swiggy Website,Debit Card
+SWG00283,CUST0134,2026-02-02,Coimbatore,Annapurna Meals,South Indian,Idli,2,117.29,15,Returned,Returning,Swiggy App,Cash
+SWG00284,CUST0028,2026-08-04,Vijayawada,Spice Route,North Indian,Butter Naan,2,287.18,20,Returned,Returning,Swiggy Website,Cash
+SWG00285,CUST0071,2026-11-02,Kochi,The Biryani House,Pizza,Farmhouse Pizza,2,405.32,0,Cancelled,Returning,Swiggy App,Cash
+SWG00286,CUST0096,2025-09-01,Chennai,Burger Junction,Chinese,Paneer Manchurian,1,200.29,0,Returned,Returning,Swiggy Website,Debit Card
+SWG00287,CUST0114,2025-04-11,Delhi,Urban Tandoor,Beverages,Mango Lassi,5,65.08,5,Pending,Returning,Swiggy App,Credit Card
+SWG00288,CUST0015,2026-02-21,Tirupati,The Biryani House,Beverages,Cold Coffee,3,123.54,15,Completed,Returning,Swiggy Website,Credit Card
+SWG00289,CUST0009,2025-07-17,Coimbatore,Annapurna Meals,Biryani,Mutton Biryani,4,212.19,0,Completed,New,Swiggy Website,Debit Card
+SWG00290,CUST0096,2026-02-11,Coimbatore,Cafe Aroma,Beverages,Mango Lassi,3,53.63,0,Completed,New,Swiggy Website,Wallet
+SWG00291,CUST0024,2025-06-17,Pune,Annapurna Meals,Chinese,Chicken Noodles,4,159.15,15,Completed,New,Swiggy App,Wallet
+SWG00292,CUST0132,2026-10-25,Chennai,Annapurna Meals,Burgers,Veg Burger,1,133.08,10,Completed,New,Swiggy App,Wallet
+SWG00293,CUST0165,2025-09-16,Pune,Pizza Point,Biryani,Mutton Biryani,2,405.18,10,Completed,Returning,Swiggy Website,Debit Card
+SWG00294,CUST0027,2025-11-06,Chennai,Sweet Truth,Burgers,Chicken Burger,3,231.89,5,Pending,Returning,Swiggy Website,Debit Card
+SWG00295,CUST0071,2025-03-07,Pune,Urban Tandoor,South Indian,Mini Tiffin,2,78.71,5,Completed,New,Swiggy App,UPI
+SWG00296,CUST0076,2025-11-24,Pune,Pizza Point,Desserts,Ice Cream,3,146.55,10,Completed,Returning,Swiggy App,Wallet
+SWG00297,CUST0172,2025-08-16,Delhi,Sweet Truth,Burgers,Chicken Burger,3,202.13,5,Completed,New,Swiggy App,Debit Card
+SWG00298,CUST0047,2025-05-12,Visakhapatnam,Burger Junction,South Indian,Mini Tiffin,3,141.53,10,Pending,New,Swiggy App,Debit Card
+SWG00299,CUST0150,2025-11-11,Pune,Wok Express,Burgers,Cheese Burger,2,241.89,5,Returned,New,Swiggy Website,UPI
+SWG00300,CUST0077,2025-07-19,Kochi,Annapurna Meals,South Indian,Mini Tiffin,2,161.45,5,Returned,New,Swiggy App,Credit Card
+SWG00301,CUST0047,2026-08-07,Bengaluru,Wok Express,Chinese,Chicken Noodles,4,297.46,0,Completed,New,Swiggy Website,Net Banking
+SWG00302,CUST0041,2026-04-08,Coimbatore,Spice Route,Biryani,Chicken Biryani,1,357.91,0,Completed,Returning,Swiggy Website,Cash
+SWG00303,CUST0004,2026-01-28,Delhi,Sweet Truth,Desserts,Brownie,1,124.05,10,Completed,New,Swiggy App,Net Banking
+SWG00304,CUST0079,2025-12-19,Hyderabad,Spice Route,Burgers,Veg Burger,1,116.43,10,Returned,New,Swiggy Website,Debit Card
+SWG00305,CUST0035,2026-06-17,Delhi,Wok Express,Beverages,Mango Lassi,2,77.16,15,Completed,New,Swiggy App,Cash
+SWG00306,CUST0151,2025-08-18,Tirupati,The Biryani House,Biryani,Mutton Biryani,3,194.11,10,Completed,Returning,Swiggy App,Cash
+SWG00307,CUST0168,2026-10-01,Chennai,Annapurna Meals,Pizza,Chicken Pizza,1,548.03,10,Pending,New,Swiggy Website,Cash
+SWG00308,CUST0176,2026-07-15,Visakhapatnam,Annapurna Meals,Desserts,Gulab Jamun,1,144.22,0,Completed,Returning,Swiggy App,Net Banking
+SWG00309,CUST0131,2026-09-13,Jaipur,Cafe Aroma,Pizza,Chicken Pizza,3,334.97,15,Completed,Returning,Swiggy App,UPI
+SWG00310,CUST0052,2026-09-16,Delhi,Pizza Point,Beverages,Cold Coffee,1,68.93,10,Completed,New,Swiggy App,Wallet
+SWG00311,CUST0029,2026-05-08,Vijayawada,Wok Express,Beverages,Cold Coffee,2,40.3,10,Completed,New,Swiggy App,Net Banking
+SWG00312,CUST0119,2026-10-22,Chennai,Spice Route,South Indian,Pongal,1,178.41,0,Returned,New,Swiggy App,Debit Card
+SWG00313,CUST0012,2025-11-17,Chennai,The Biryani House,Chinese,Paneer Manchurian,2,132.02,15,Pending,New,Swiggy Website,Debit Card
+SWG00314,CUST0047,2025-10-02,Bengaluru,Pizza Point,Beverages,Mango Lassi,4,50.22,15,Completed,Returning,Swiggy Website,Cash
+SWG00315,CUST0016,2026-10-27,Hyderabad,Spice Route,Beverages,Fresh Lime Soda,4,58.35,0,Completed,Returning,Swiggy Website,Credit Card
+SWG00316,CUST0034,2026-09-19,Coimbatore,Wok Express,Desserts,Brownie,1,142.14,15,Completed,Returning,Swiggy Website,UPI
+SWG00317,CUST0148,2026-11-02,Jaipur,Cafe Aroma,South Indian,Pongal,1,138.64,10,Completed,Returning,Swiggy App,Cash
+SWG00318,CUST0143,2025-12-21,Vijayawada,Annapurna Meals,Burgers,Chicken Burger,3,202.62,0,Completed,New,Swiggy Website,Cash
+SWG00319,CUST0130,2026-05-19,Mumbai,Sweet Truth,North Indian,Paneer Butter Masala,2,176.03,0,Pending,Returning,Swiggy Website,Credit Card
+SWG00320,CUST0115,2026-03-31,Delhi,Spice Route,South Indian,Mini Tiffin,3,102.73,15,Completed,New,Swiggy App,Cash
+SWG00321,CUST0159,2026-07-25,Visakhapatnam,Urban Tandoor,Desserts,Gulab Jamun,2,159.11,15,Cancelled,New,Swiggy Website,Debit Card
+SWG00322,CUST0154,2025-08-17,Coimbatore,Burger Junction,Chinese,Veg Fried Rice,4,173.07,15,Pending,Returning,Swiggy App,UPI
+SWG00323,CUST0141,2025-12-16,Tirupati,Burger Junction,Burgers,Veg Burger,2,201.39,15,Pending,New,Swiggy App,Credit Card
+SWG00324,CUST0101,2026-02-24,Mumbai,Wok Express,Beverages,Cold Coffee,1,107.19,0,Returned,New,Swiggy Website,UPI
+SWG00325,CUST0116,2026-10-11,Coimbatore,Cafe Aroma,Desserts,Gulab Jamun,4,130.66,15,Cancelled,New,Swiggy Website,UPI
+SWG00326,CUST0046,2026-08-23,Jaipur,Cafe Aroma,Biryani,Paneer Biryani,2,292.17,20,Completed,New,Swiggy App,Cash
+SWG00327,CUST0064,2026-01-29,Pune,Pizza Point,Chinese,Paneer Manchurian,2,225.71,10,Completed,Returning,Swiggy Website,Credit Card
+SWG00328,CUST0180,2026-09-09,Tirupati,Burger Junction,North Indian,Veg Thali,3,284.59,0,Pending,New,Swiggy App,Credit Card
+SWG00329,CUST0046,2025-12-20,Tirupati,Sweet Truth,Pizza,Chicken Pizza,4,229.09,10,Pending,Returning,Swiggy App,Debit Card
+SWG00330,CUST0137,2026-08-08,Pune,Pizza Point,Beverages,Mango Lassi,5,118.11,10,Returned,New,Swiggy App,UPI
+SWG00331,CUST0042,2025-02-24,Pune,Urban Tandoor,Desserts,Gulab Jamun,3,83.99,15,Completed,New,Swiggy Website,Credit Card
+SWG00332,CUST0058,2026-04-09,Jaipur,Sweet Truth,Biryani,Veg Biryani,1,385.69,10,Completed,New,Swiggy Website,Net Banking
+SWG00333,CUST0142,2026-02-01,Chennai,Annapurna Meals,Biryani,Paneer Biryani,2,364.91,10,Pending,Returning,Swiggy App,Wallet
+SWG00334,CUST0140,2026-10-11,Jaipur,Cafe Aroma,Beverages,Cold Coffee,3,111.24,15,Completed,New,Swiggy Website,Cash
+SWG00335,CUST0011,2025-07-11,Kochi,Urban Tandoor,North Indian,Paneer Butter Masala,5,281.12,0,Cancelled,Returning,Swiggy App,Credit Card
+SWG00336,CUST0083,2025-12-05,Vijayawada,Annapurna Meals,Pizza,Margherita Pizza,2,526.87,0,Returned,Returning,Swiggy Website,Wallet
+SWG00337,CUST0130,2025-11-22,Hyderabad,Pizza Point,Chinese,Veg Fried Rice,2,291.83,10,Cancelled,Returning,Swiggy App,Debit Card
+SWG00338,CUST0159,2025-12-06,Tirupati,Wok Express,Burgers,Veg Burger,2,146.97,20,Cancelled,New,Swiggy App,Net Banking
+SWG00339,CUST0011,2025-09-04,Visakhapatnam,Burger Junction,Chinese,Chicken Noodles,4,226.6,10,Completed,New,Swiggy Website,Debit Card
+SWG00340,CUST0115,2026-06-14,Coimbatore,Annapurna Meals,Pizza,Margherita Pizza,4,318.73,15,Completed,New,Swiggy Website,Wallet
+SWG00341,CUST0161,2025-06-21,Bengaluru,Dosa Corner,South Indian,Idli,5,148.26,10,Pending,New,Swiggy Website,UPI
+SWG00342,CUST0040,2026-03-22,Chennai,Wok Express,Burgers,Cheese Burger,3,250.36,10,Pending,Returning,Swiggy App,UPI
+SWG00343,CUST0059,2025-07-02,Pune,Pizza Point,South Indian,Idli,3,118.13,10,Completed,Returning,Swiggy Website,Cash
+SWG00344,CUST0159,2026-02-03,Bengaluru,Cafe Aroma,Chinese,Veg Fried Rice,3,211.62,10,Completed,New,Swiggy Website,Wallet
+SWG00345,CUST0098,2025-11-05,Kochi,Annapurna Meals,South Indian,Pongal,2,79.41,20,Completed,New,Swiggy App,Credit Card
+SWG00346,CUST0166,2025-10-30,Delhi,Annapurna Meals,Desserts,Ice Cream,5,77.29,10,Cancelled,New,Swiggy App,UPI
+SWG00347,CUST0089,2026-07-05,Mumbai,Pizza Point,Biryani,Paneer Biryani,2,182.13,0,Pending,New,Swiggy App,Credit Card
+SWG00348,CUST0014,2025-09-16,Tirupati,Wok Express,Burgers,Cheese Burger,1,129.02,15,Pending,New,Swiggy Website,Net Banking
+SWG00349,CUST0092,2025-04-11,Hyderabad,Dosa Corner,South Indian,Pongal,1,121.28,20,Completed,Returning,Swiggy App,Credit Card
+SWG00350,CUST0040,2026-04-07,Vijayawada,Cafe Aroma,Chinese,Chicken Noodles,2,235.29,10,Completed,Returning,Swiggy Website,Credit Card
+SWG00351,CUST0071,2025-09-10,Delhi,The Biryani House,Biryani,Veg Biryani,3,345.17,10,Pending,Returning,Swiggy Website,Cash
+SWG00352,CUST0021,2025-11-09,Pune,The Biryani House,Beverages,Fresh Lime Soda,2,51.97,10,Cancelled,New,Swiggy Website,Net Banking
+SWG00353,CUST0149,2025-01-20,Kochi,Cafe Aroma,South Indian,Idli,4,128.43,15,Completed,New,Swiggy Website,Wallet
+SWG00354,CUST0075,2025-06-02,Hyderabad,Wok Express,Beverages,Mango Lassi,2,64.56,15,Cancelled,New,Swiggy Website,Debit Card
+SWG00355,CUST0041,2026-09-21,Hyderabad,Cafe Aroma,Biryani,Mutton Biryani,3,356.87,0,Cancelled,New,Swiggy Website,Debit Card
+SWG00356,CUST0172,2026-05-15,Mumbai,Sweet Truth,Biryani,Mutton Biryani,1,228.73,0,Returned,Returning,Swiggy Website,Cash
+SWG00357,CUST0134,2025-02-10,Visakhapatnam,Urban Tandoor,Beverages,Cold Coffee,5,75.65,10,Returned,Returning,Swiggy App,Cash
+SWG00358,CUST0097,2026-08-25,Mumbai,Sweet Truth,Desserts,Brownie,3,160.26,10,Completed,Returning,Swiggy Website,Cash
+SWG00359,CUST0020,2025-01-07,Tirupati,Urban Tandoor,Beverages,Mango Lassi,2,55.29,0,Completed,New,Swiggy App,Credit Card
+SWG00360,CUST0030,2025-05-02,Coimbatore,Wok Express,Chinese,Paneer Manchurian,3,188.78,5,Completed,New,Swiggy App,Net Banking
+SWG00361,CUST0162,2025-09-07,Tirupati,Annapurna Meals,Desserts,Gulab Jamun,1,128.82,0,Cancelled,New,Swiggy App,Credit Card
+SWG00362,CUST0005,2026-06-14,Jaipur,Urban Tandoor,Pizza,Margherita Pizza,5,401.76,10,Completed,New,Swiggy Website,Wallet
+SWG00363,CUST0150,2025-06-24,Hyderabad,Cafe Aroma,Beverages,Fresh Lime Soda,1,85.18,0,Pending,Returning,Swiggy App,Net Banking
+SWG00364,CUST0028,2026-09-03,Chennai,Dosa Corner,Chinese,Chicken Noodles,2,153.66,5,Cancelled,Returning,Swiggy App,Wallet
+SWG00365,CUST0137,2026-05-03,Tirupati,Spice Route,South Indian,Masala Dosa,4,123.97,15,Completed,Returning,Swiggy App,Wallet
+SWG00366,CUST0110,2026-06-19,Mumbai,Wok Express,Biryani,Paneer Biryani,2,387.45,10,Returned,Returning,Swiggy Website,Wallet
+SWG00367,CUST0022,2025-05-18,Pune,Cafe Aroma,South Indian,Mini Tiffin,1,147.22,20,Cancelled,Returning,Swiggy Website,Credit Card
+SWG00368,CUST0053,2026-08-15,Jaipur,Burger Junction,Biryani,Chicken Biryani,2,295.14,5,Completed,Returning,Swiggy App,Credit Card
+SWG00369,CUST0094,2026-08-23,Vijayawada,Urban Tandoor,Desserts,Ice Cream,1,162.6,5,Pending,Returning,Swiggy App,Cash
+SWG00370,CUST0148,2026-01-15,Delhi,Pizza Point,Beverages,Cold Coffee,2,93.21,20,Pending,New,Swiggy App,Net Banking
+SWG00371,CUST0141,2025-06-15,Vijayawada,Annapurna Meals,Burgers,Chicken Burger,1,181.33,15,Completed,Returning,Swiggy App,UPI
+SWG00372,CUST0021,2026-09-07,Vijayawada,Annapurna Meals,North Indian,Veg Thali,2,106.66,0,Pending,Returning,Swiggy Website,Wallet
+SWG00373,CUST0127,2026-09-04,Coimbatore,Annapurna Meals,Pizza,Chicken Pizza,1,466.24,0,Completed,Returning,Swiggy App,UPI
+SWG00374,CUST0041,2025-06-23,Bengaluru,Urban Tandoor,Burgers,Cheese Burger,3,157.56,10,Returned,Returning,Swiggy Website,Net Banking
+SWG00375,CUST0024,2026-08-24,Tirupati,Urban Tandoor,Desserts,Brownie,1,61.84,10,Pending,Returning,Swiggy Website,Debit Card
+SWG00376,CUST0045,2025-07-19,Kochi,Sweet Truth,Burgers,Cheese Burger,2,164.63,0,Completed,New,Swiggy Website,Debit Card
+SWG00377,CUST0097,2026-07-05,Vijayawada,Wok Express,South Indian,Pongal,3,120.49,10,Returned,New,Swiggy Website,Cash
+SWG00378,CUST0057,2025-01-29,Visakhapatnam,Dosa Corner,Beverages,Mango Lassi,2,68.36,5,Returned,Returning,Swiggy Website,Debit Card
+SWG00379,CUST0088,2025-09-12,Bengaluru,Sweet Truth,Biryani,Veg Biryani,1,263.72,10,Completed,Returning,Swiggy Website,Debit Card
+SWG00380,CUST0049,2025-10-03,Coimbatore,Dosa Corner,Burgers,Cheese Burger,1,219.39,20,Completed,New,Swiggy Website,Credit Card
+SWG00381,CUST0031,2025-09-13,Bengaluru,Wok Express,Burgers,Veg Burger,4,156.96,15,Cancelled,New,Swiggy App,Cash
+SWG00382,CUST0071,2025-11-19,Coimbatore,The Biryani House,Chinese,Paneer Manchurian,2,297.22,15,Returned,Returning,Swiggy Website,Credit Card
+SWG00383,CUST0129,2026-06-23,Delhi,Pizza Point,North Indian,Paneer Butter Masala,3,214.36,10,Returned,New,Swiggy Website,UPI
+SWG00384,CUST0084,2025-01-09,Delhi,Cafe Aroma,Beverages,Fresh Lime Soda,1,63.18,10,Returned,Returning,Swiggy App,Wallet
+SWG00385,CUST0128,2025-10-03,Kochi,Dosa Corner,Pizza,Margherita Pizza,2,406.84,5,Completed,Returning,Swiggy Website,Cash
+SWG00386,CUST0026,2025-07-04,Jaipur,Urban Tandoor,Pizza,Farmhouse Pizza,2,542.33,10,Returned,New,Swiggy Website,Cash
+SWG00387,CUST0035,2025-06-03,Visakhapatnam,Sweet Truth,Burgers,Veg Burger,2,101.56,5,Cancelled,Returning,Swiggy Website,Debit Card
+SWG00388,CUST0056,2026-08-05,Pune,Wok Express,Pizza,Chicken Pizza,1,216.62,0,Returned,New,Swiggy Website,Net Banking
+SWG00389,CUST0089,2026-01-05,Chennai,Pizza Point,Chinese,Chicken Noodles,2,215.92,15,Completed,Returning,Swiggy App,Wallet
+SWG00390,CUST0115,2025-12-30,Bengaluru,Pizza Point,North Indian,Dal Makhani,2,222.72,15,Cancelled,Returning,Swiggy Website,Net Banking
+SWG00391,CUST0147,2026-10-18,Kochi,Spice Route,North Indian,Butter Naan,3,177.72,10,Completed,New,Swiggy Website,Credit Card
+SWG00392,CUST0070,2026-10-31,Coimbatore,Burger Junction,Chinese,Chicken Noodles,1,160.82,10,Pending,Returning,Swiggy Website,Credit Card
+SWG00393,CUST0180,2025-05-09,Jaipur,Spice Route,North Indian,Paneer Butter Masala,3,262.13,20,Completed,New,Swiggy Website,UPI
+SWG00394,CUST0022,2026-04-30,Bengaluru,Urban Tandoor,South Indian,Idli,2,43.69,5,Cancelled,New,Swiggy App,Net Banking
+SWG00395,CUST0034,2025-08-23,Tirupati,The Biryani House,Desserts,Brownie,1,94.1,10,Completed,New,Swiggy Website,Debit Card
+SWG00396,CUST0179,2026-07-08,Tirupati,The Biryani House,Beverages,Fresh Lime Soda,4,100.34,0,Cancelled,Returning,Swiggy Website,Wallet
+SWG00397,CUST0094,2026-05-09,Kochi,Urban Tandoor,Pizza,Farmhouse Pizza,2,477.74,5,Completed,Returning,Swiggy App,UPI
+SWG00398,CUST0123,2025-10-21,Pune,Annapurna Meals,North Indian,Dal Makhani,2,92.16,20,Returned,Returning,Swiggy Website,Wallet
+SWG00399,CUST0102,2026-07-16,Mumbai,The Biryani House,Burgers,Veg Burger,2,165.88,10,Pending,Returning,Swiggy Website,Credit Card
+SWG00400,CUST0157,2026-03-09,Jaipur,Urban Tandoor,Pizza,Margherita Pizza,3,371.15,15,Completed,Returning,Swiggy Website,Credit Card
+SWG00401,CUST0070,2025-05-20,Jaipur,Cafe Aroma,South Indian,Masala Dosa,1,129.16,10,Completed,New,Swiggy Website,UPI
+SWG00402,CUST0033,2026-07-02,Jaipur,Wok Express,North Indian,Paneer Butter Masala,1,342.81,0,Pending,New,Swiggy App,UPI
+SWG00403,CUST0128,2026-05-21,Delhi,Wok Express,North Indian,Paneer Butter Masala,1,199.26,15,Pending,New,Swiggy Website,UPI
+SWG00404,CUST0050,2025-09-30,Pune,Pizza Point,North Indian,Paneer Butter Masala,3,108.56,5,Returned,New,Swiggy App,Net Banking
+SWG00405,CUST0025,2026-03-30,Tirupati,Dosa Corner,Burgers,Chicken Burger,1,259.13,0,Completed,Returning,Swiggy Website,Debit Card
+SWG00406,CUST0051,2026-07-17,Delhi,Annapurna Meals,North Indian,Paneer Butter Masala,2,155.86,10,Returned,New,Swiggy App,Credit Card
+SWG00407,CUST0063,2025-01-16,Chennai,Annapurna Meals,Desserts,Brownie,1,93.13,0,Cancelled,Returning,Swiggy App,Debit Card
+SWG00408,CUST0161,2025-06-11,Chennai,Annapurna Meals,South Indian,Masala Dosa,2,136.03,5,Completed,New,Swiggy App,Credit Card
+SWG00409,CUST0113,2025-11-21,Jaipur,Dosa Corner,Beverages,Cold Coffee,5,126.74,15,Completed,Returning,Swiggy Website,Net Banking
+SWG00410,CUST0179,2025-02-10,Coimbatore,Dosa Corner,North Indian,Dal Makhani,2,203.75,0,Cancelled,New,Swiggy Website,Debit Card
+SWG00411,CUST0040,2026-09-06,Coimbatore,Urban Tandoor,Beverages,Fresh Lime Soda,4,101.0,0,Returned,Returning,Swiggy Website,Cash
+SWG00412,CUST0159,2025-07-09,Mumbai,Burger Junction,Biryani,Paneer Biryani,4,321.13,5,Pending,New,Swiggy Website,Credit Card
+SWG00413,CUST0029,2025-06-07,Bengaluru,Sweet Truth,Beverages,Mango Lassi,2,75.49,10,Pending,New,Swiggy App,Credit Card
+SWG00414,CUST0165,2025-07-26,Kochi,Wok Express,North Indian,Paneer Butter Masala,1,139.82,0,Cancelled,Returning,Swiggy App,Debit Card
+SWG00415,CUST0021,2025-03-14,Coimbatore,Annapurna Meals,Burgers,Cheese Burger,1,247.37,10,Completed,Returning,Swiggy Website,Net Banking
+SWG00416,CUST0056,2026-06-26,Tirupati,Spice Route,Biryani,Veg Biryani,1,178.3,5,Completed,New,Swiggy Website,Credit Card
+SWG00417,CUST0143,2026-11-04,Kochi,Spice Route,Burgers,Cheese Burger,1,200.05,0,Returned,Returning,Swiggy Website,Net Banking
+SWG00418,CUST0169,2025-06-20,Hyderabad,Sweet Truth,Desserts,Gulab Jamun,3,126.0,10,Cancelled,Returning,Swiggy Website,Debit Card
+SWG00419,CUST0156,2026-02-27,Mumbai,Cafe Aroma,Chinese,Chicken Noodles,3,191.81,10,Cancelled,New,Swiggy Website,Wallet
+SWG00420,CUST0073,2026-04-09,Vijayawada,Annapurna Meals,Pizza,Farmhouse Pizza,2,326.92,10,Cancelled,New,Swiggy Website,UPI
+SWG00421,CUST0177,2025-08-08,Pune,Sweet Truth,Pizza,Margherita Pizza,4,188.03,15,Cancelled,New,Swiggy App,UPI
+SWG00422,CUST0060,2025-06-09,Pune,Urban Tandoor,Beverages,Fresh Lime Soda,1,80.38,10,Completed,Returning,Swiggy App,Net Banking
+SWG00423,CUST0148,2026-05-10,Bengaluru,Cafe Aroma,South Indian,Pongal,1,155.6,10,Pending,Returning,Swiggy App,Net Banking
+SWG00424,CUST0112,2025-02-27,Kochi,Spice Route,Desserts,Gulab Jamun,4,100.13,15,Returned,New,Swiggy App,Net Banking
+SWG00425,CUST0084,2025-11-09,Tirupati,Dosa Corner,Desserts,Gulab Jamun,2,98.32,10,Completed,New,Swiggy Website,Cash
+SWG00426,CUST0022,2026-03-19,Coimbatore,Cafe Aroma,South Indian,Masala Dosa,1,95.21,0,Pending,New,Swiggy Website,Debit Card
+SWG00427,CUST0124,2026-05-29,Tirupati,Dosa Corner,South Indian,Mini Tiffin,2,137.7,15,Completed,Returning,Swiggy App,Wallet
+SWG00428,CUST0148,2025-03-15,Bengaluru,Spice Route,Burgers,Veg Burger,1,168.81,10,Pending,Returning,Swiggy Website,Debit Card
+SWG00429,CUST0044,2025-11-25,Delhi,Cafe Aroma,Chinese,Veg Fried Rice,2,234.53,15,Returned,Returning,Swiggy App,Cash
+SWG00430,CUST0022,2025-07-24,Bengaluru,Annapurna Meals,Biryani,Mutton Biryani,3,200.56,10,Completed,New,Swiggy Website,UPI
+SWG00431,CUST0138,2025-04-24,Mumbai,Dosa Corner,Chinese,Paneer Manchurian,1,199.53,5,Cancelled,Returning,Swiggy Website,Wallet
+SWG00432,CUST0044,2026-01-21,Chennai,Urban Tandoor,North Indian,Paneer Butter Masala,2,262.52,0,Completed,Returning,Swiggy App,Cash
+SWG00433,CUST0093,2026-02-02,Bengaluru,Annapurna Meals,Biryani,Chicken Biryani,3,332.38,20,Completed,Returning,Swiggy App,Cash
+SWG00434,CUST0129,2026-05-12,Coimbatore,Sweet Truth,South Indian,Pongal,4,114.42,0,Pending,New,Swiggy App,Credit Card
+SWG00435,CUST0091,2026-05-17,Delhi,Urban Tandoor,Pizza,Farmhouse Pizza,2,238.09,5,Completed,Returning,Swiggy App,Net Banking
+SWG00436,CUST0088,2025-01-31,Kochi,The Biryani House,Pizza,Farmhouse Pizza,5,531.17,0,Completed,Returning,Swiggy App,Cash
+SWG00437,CUST0115,2025-06-06,Tirupati,The Biryani House,Burgers,Cheese Burger,2,149.98,10,Completed,New,Swiggy App,Credit Card
+SWG00438,CUST0038,2026-06-21,Visakhapatnam,Cafe Aroma,Pizza,Chicken Pizza,4,339.12,20,Completed,Returning,Swiggy App,Wallet
+SWG00439,CUST0082,2025-11-22,Kochi,Pizza Point,South Indian,Masala Dosa,4,60.37,0,Completed,Returning,Swiggy Website,Credit Card
+SWG00440,CUST0069,2025-05-15,Vijayawada,Cafe Aroma,Burgers,Veg Burger,1,221.99,10,Cancelled,New,Swiggy App,Credit Card
+SWG00441,CUST0155,2025-03-23,Coimbatore,Burger Junction,Biryani,Veg Biryani,3,283.92,10,Completed,Returning,Swiggy Website,Cash
+SWG00442,CUST0070,2025-07-17,Kochi,Dosa Corner,North Indian,Butter Naan,1,196.23,20,Pending,New,Swiggy App,UPI
+SWG00443,CUST0064,2026-09-24,Kochi,Pizza Point,North Indian,Veg Thali,2,174.47,5,Returned,New,Swiggy Website,Net Banking
+SWG00444,CUST0165,2026-09-19,Jaipur,Annapurna Meals,Chinese,Chicken Noodles,4,218.67,10,Cancelled,New,Swiggy Website,Cash
+SWG00445,CUST0100,2026-06-16,Tirupati,Annapurna Meals,Biryani,Mutton Biryani,2,415.8,0,Completed,Returning,Swiggy Website,Cash
+SWG00446,CUST0177,2026-04-18,Tirupati,The Biryani House,Pizza,Farmhouse Pizza,1,288.94,20,Completed,Returning,Swiggy App,Net Banking
+SWG00447,CUST0106,2026-08-23,Delhi,Wok Express,South Indian,Masala Dosa,4,137.46,0,Completed,New,Swiggy Website,Wallet
+SWG00448,CUST0042,2025-04-03,Jaipur,Spice Route,Burgers,Chicken Burger,1,210.67,20,Completed,New,Swiggy Website,Net Banking
+SWG00449,CUST0157,2026-06-21,Hyderabad,Pizza Point,Chinese,Veg Fried Rice,3,248.11,20,Cancelled,Returning,Swiggy App,Credit Card
+SWG00450,CUST0014,2025-06-03,Kochi,Urban Tandoor,Chinese,Paneer Manchurian,1,137.48,15,Completed,Returning,Swiggy Website,Net Banking
+SWG00451,CUST0004,2025-05-15,Coimbatore,Wok Express,North Indian,Paneer Butter Masala,5,90.92,15,Returned,Returning,Swiggy App,Wallet
+SWG00452,CUST0021,2025-08-11,Vijayawada,Cafe Aroma,Beverages,Cold Coffee,2,92.33,5,Completed,New,Swiggy Website,Wallet
+SWG00453,CUST0009,2025-07-09,Visakhapatnam,Cafe Aroma,Burgers,Veg Burger,1,204.52,0,Returned,Returning,Swiggy Website,UPI
+SWG00454,CUST0170,2026-03-03,Jaipur,Cafe Aroma,Biryani,Chicken Biryani,5,201.95,0,Cancelled,New,Swiggy Website,Net Banking
+SWG00455,CUST0018,2025-04-06,Kochi,Sweet Truth,Chinese,Veg Fried Rice,3,171.34,15,Completed,Returning,Swiggy Website,Credit Card
+SWG00456,CUST0157,2025-12-04,Chennai,Spice Route,South Indian,Pongal,2,113.45,10,Cancelled,New,Swiggy Website,Net Banking
+SWG00457,CUST0160,2026-09-16,Delhi,The Biryani House,Pizza,Farmhouse Pizza,4,276.07,10,Cancelled,Returning,Swiggy Website,Cash
+SWG00458,CUST0161,2025-10-25,Bengaluru,Dosa Corner,North Indian,Butter Naan,5,90.41,0,Returned,Returning,Swiggy Website,UPI
+SWG00459,CUST0177,2026-07-28,Pune,Urban Tandoor,Chinese,Chicken Noodles,3,150.34,10,Returned,New,Swiggy Website,Debit Card
+SWG00460,CUST0158,2025-04-27,Chennai,The Biryani House,Chinese,Veg Fried Rice,3,174.86,10,Completed,Returning,Swiggy Website,Net Banking
+SWG00461,CUST0138,2025-02-06,Delhi,Wok Express,Beverages,Fresh Lime Soda,3,92.96,10,Returned,Returning,Swiggy App,Wallet
+SWG00462,CUST0085,2025-11-20,Delhi,Spice Route,Pizza,Chicken Pizza,2,186.93,10,Completed,Returning,Swiggy App,Debit Card
+SWG00463,CUST0153,2026-07-02,Bengaluru,Urban Tandoor,Desserts,Ice Cream,4,128.52,5,Pending,Returning,Swiggy App,Debit Card
+SWG00464,CUST0078,2026-05-24,Mumbai,Sweet Truth,Desserts,Gulab Jamun,4,104.59,15,Completed,New,Swiggy App,Debit Card
+SWG00465,CUST0129,2025-04-05,Hyderabad,Dosa Corner,Biryani,Mutton Biryani,2,166.48,5,Completed,Returning,Swiggy Website,Debit Card
+SWG00466,CUST0118,2026-06-13,Kochi,Sweet Truth,North Indian,Paneer Butter Masala,3,124.51,10,Completed,New,Swiggy Website,UPI
+SWG00467,CUST0080,2026-04-24,Chennai,Cafe Aroma,South Indian,Pongal,4,54.43,15,Returned,Returning,Swiggy App,Debit Card
+SWG00468,CUST0031,2025-10-21,Pune,The Biryani House,Burgers,Veg Burger,1,151.06,5,Completed,Returning,Swiggy App,UPI
+SWG00469,CUST0073,2026-07-10,Vijayawada,Dosa Corner,South Indian,Masala Dosa,2,84.59,0,Completed,New,Swiggy Website,Wallet
+SWG00470,CUST0013,2026-03-31,Bengaluru,Pizza Point,Chinese,Paneer Manchurian,1,115.51,20,Completed,New,Swiggy Website,Cash
+SWG00471,CUST0172,2026-09-24,Tirupati,Spice Route,North Indian,Veg Thali,2,176.41,0,Returned,Returning,Swiggy App,UPI
+SWG00472,CUST0121,2026-04-12,Mumbai,Dosa Corner,Beverages,Cold Coffee,1,110.89,15,Completed,Returning,Swiggy Website,Cash
+SWG00473,CUST0090,2025-11-29,Coimbatore,Wok Express,North Indian,Dal Makhani,2,97.87,5,Returned,New,Swiggy Website,Debit Card
+SWG00474,CUST0167,2026-02-20,Bengaluru,Urban Tandoor,North Indian,Paneer Butter Masala,3,297.16,5,Cancelled,Returning,Swiggy Website,Wallet
+SWG00475,CUST0017,2026-09-28,Delhi,Dosa Corner,Desserts,Gulab Jamun,1,79.08,5,Returned,Returning,Swiggy Website,Wallet
+SWG00476,CUST0147,2025-08-30,Coimbatore,Spice Route,Chinese,Paneer Manchurian,1,237.22,10,Cancelled,Returning,Swiggy Website,Wallet
+SWG00477,CUST0176,2025-06-30,Vijayawada,Pizza Point,South Indian,Mini Tiffin,1,96.81,10,Completed,Returning,Swiggy App,UPI
+SWG00478,CUST0038,2026-08-18,Visakhapatnam,The Biryani House,Burgers,Veg Burger,4,201.78,0,Completed,Returning,Swiggy Website,Wallet
+SWG00479,CUST0174,2025-07-30,Pune,Pizza Point,Beverages,Cold Coffee,3,74.83,10,Pending,Returning,Swiggy App,Wallet
+SWG00480,CUST0014,2025-05-11,Chennai,Sweet Truth,Biryani,Paneer Biryani,4,176.23,20,Returned,Returning,Swiggy App,Debit Card
+SWG00481,CUST0098,2026-03-19,Kochi,Pizza Point,Biryani,Mutton Biryani,3,262.51,5,Completed,New,Swiggy App,Cash
+SWG00482,CUST0040,2026-07-23,Pune,The Biryani House,North Indian,Butter Naan,2,330.37,15,Completed,New,Swiggy App,Net Banking
+SWG00483,CUST0036,2026-05-14,Visakhapatnam,Pizza Point,Biryani,Mutton Biryani,3,413.49,0,Returned,Returning,Swiggy Website,Wallet
+SWG00484,CUST0058,2026-06-06,Hyderabad,Pizza Point,North Indian,Veg Thali,2,303.22,5,Cancelled,New,Swiggy Website,Net Banking
+SWG00485,CUST0009,2026-05-29,Chennai,Cafe Aroma,Burgers,Cheese Burger,1,248.25,10,Completed,Returning,Swiggy App,Wallet
+SWG00486,CUST0072,2025-03-23,Coimbatore,Sweet Truth,Beverages,Mango Lassi,1,120.44,20,Completed,New,Swiggy App,Cash
+SWG00487,CUST0121,2026-09-20,Coimbatore,Sweet Truth,South Indian,Pongal,1,88.1,15,Completed,Returning,Swiggy Website,Debit Card
+SWG00488,CUST0145,2025-06-21,Pune,Annapurna Meals,Pizza,Farmhouse Pizza,1,521.46,10,Pending,Returning,Swiggy App,Wallet
+SWG00489,CUST0020,2026-10-02,Pune,Urban Tandoor,Biryani,Veg Biryani,1,286.04,0,Completed,Returning,Swiggy Website,Debit Card
+SWG00490,CUST0115,2026-09-11,Delhi,The Biryani House,Biryani,Chicken Biryani,1,313.86,0,Completed,New,Swiggy Website,Credit Card
+SWG00491,CUST0127,2025-03-28,Kochi,Pizza Point,Biryani,Veg Biryani,5,314.84,15,Completed,Returning,Swiggy App,Credit Card
+SWG00492,CUST0119,2026-10-20,Kochi,Wok Express,Chinese,Veg Fried Rice,1,265.71,0,Completed,Returning,Swiggy App,Cash
+SWG00493,CUST0115,2025-09-26,Kochi,Burger Junction,Desserts,Brownie,1,164.43,0,Cancelled,New,Swiggy App,Wallet
+SWG00494,CUST0069,2026-09-18,Bengaluru,Urban Tandoor,Chinese,Chicken Noodles,4,273.09,5,Pending,Returning,Swiggy Website,Net Banking
+SWG00495,CUST0047,2026-08-26,Delhi,Sweet Truth,Burgers,Cheese Burger,3,183.19,10,Completed,New,Swiggy App,UPI
+SWG00496,CUST0073,2026-06-22,Pune,Dosa Corner,Desserts,Gulab Jamun,1,113.51,0,Completed,New,Swiggy App,UPI
+SWG00497,CUST0155,2026-10-16,Hyderabad,Pizza Point,Burgers,Cheese Burger,1,253.25,0,Pending,New,Swiggy App,Net Banking
+SWG00498,CUST0071,2025-10-29,Kochi,Burger Junction,North Indian,Dal Makhani,2,333.41,10,Completed,New,Swiggy App,Debit Card
+SWG00499,CUST0068,2026-02-02,Hyderabad,Wok Express,Biryani,Paneer Biryani,2,175.62,20,Completed,Returning,Swiggy App,Wallet
+SWG00500,CUST0056,2026-10-23,Vijayawada,Spice Route,Desserts,Gulab Jamun,2,77.26,15,Completed,Returning,Swiggy App,UPI
